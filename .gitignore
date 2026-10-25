@@ -1,0 +1,16 @@
+# Entorno virtual y dependencias
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Datos de sesión de usuario de Playwright
+user_data/
+
+# Variables de entorno
+.env
+
+# Logs y temporales
+*.log
+.DS_Store
